@@ -1,4 +1,4 @@
-connection: "segment_sources"
+connection: "bigquery"
 
 # include base (generated) views
 include: "sfbase__*.view"
